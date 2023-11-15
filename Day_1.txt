@@ -1,0 +1,3 @@
+var a ="Full stack develper";
+var b = a.length;
+console.log("b");
